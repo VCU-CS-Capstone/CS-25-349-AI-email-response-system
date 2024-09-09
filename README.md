@@ -13,8 +13,6 @@ The AI-generated responses are designed to be reviewed and edited by customer se
 | Status Reports | Project management documentation - weekly reports, milestones, etc. |
 | scr | Source code - create as many subdirectories as needed |
 
-**Note:** Commits behind this fork could be automatically synced, meaning that changes made in the template are pushed into your repo. Please do not discard commits ahead (these are the updates you make to this repository).
-
 ## Project Team
 - *Keroles Hakem*  - *CoStar Group* - Mentor
 - *Preetam Ghosh* - *Computer Science* - Faculty Advisor
