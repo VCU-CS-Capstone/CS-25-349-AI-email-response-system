@@ -18,7 +18,7 @@ The AI-generated responses are designed to be reviewed and edited by customer se
 ## Project Team
 - *Keroles Hakem*  - *CoStar Group* - Mentor
 - *Preetam Ghosh* - *Computer Science* - Faculty Advisor
-- *Student's Name* - *Computer Science* - Sohil Marreddi
-- *Student's Name* - *Computer Science* - Cameron Clyde
-- *Student's Name* - *Computer Science* - Emma Smith
-- *Student's Name* - *Computer Science* - Angela Harris
+- *Sohil Marreddi* - *Computer Science* - Student Team Member
+- *Cameron Clyde* - *Computer Science* - Student Team Member
+- *Emma Smith* - *Computer Science* - Student Team Member
+- *Angela Harris* - *Computer Science* - Student Team Member
