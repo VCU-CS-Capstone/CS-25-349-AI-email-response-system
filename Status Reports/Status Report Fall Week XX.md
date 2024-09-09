@@ -1,6 +1,6 @@
 # *CS 25-349 AI-Powered Email Response System Using Fine-Tuned LLMs for Customer Service in React*
 
-**Students' Names: ** Sohil Marreddi, Emma Smith, Angela Harris, Cameron Clyde
+**Students' Names:** Sohil Marreddi, Emma Smith, Angela Harris, Cameron Clyde
 
 **Mentor:** Keroles Hakem
 
