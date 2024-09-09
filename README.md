@@ -17,10 +17,9 @@ a better understanding of the problems you encountered during the development of
 **Note:** Commits behind this fork could be automatically synced, meaning that changes made in the template are pushed into your repo. Please do not discard commits ahead (these are the updates you make to this repository).
 
 ## Project Team
-- *Keroles Hakem*  - *Company Affliation* - Mentor
-- *Technical Advisor Name* - *Company Affliation* - Technical Advisor
-- *Preetam Ghosh* - *Department* - Faculty Advisor
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
+- *Keroles Hakem*  - *CoStar* - Mentor
+- *Preetam Ghosh* - *Computer Science* - Faculty Advisor
+- *Student's Name* - *major* - Sohil Marreddi
+- *Student's Name* - *major* - Cameron Clyde
+- *Student's Name* - *major* - Emma Smith
+- *Student's Name* - *major* - Angela Harris
