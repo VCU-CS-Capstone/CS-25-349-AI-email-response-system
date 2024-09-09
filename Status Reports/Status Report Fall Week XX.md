@@ -1,10 +1,10 @@
-# *CS 25-XXX Project Name*
+# *CS 25-349 AI-Powered Email Response System Using Fine-Tuned LLMs for Customer Service in React*
 
-**Students' Names:**
+**Students' Names: ** Sohil Marreddi, Emma Smith, Angela Harris, Cameron Clyde
 
-**Mentor:**
+**Mentor:** Keroles Hakem
 
-**Faculty Advisor:**
+**Faculty Advisor:** Preetam Ghosh
 
 ## 1) Accomplishments this week ##
    - investigate databases done by student A
