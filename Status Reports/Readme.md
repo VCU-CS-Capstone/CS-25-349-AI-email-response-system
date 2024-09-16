@@ -14,7 +14,7 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 1 Status Report | Rank projects | Projects assigned |  |
 | Week 2 Status Report | Meet with student team, work on contract | Finished team contract |Planning meeting times|
 | Week 3 Status Report | Met with Faculty Advisor and Sponsor | Understanding project requirements | Access to CoStar Group documentation|
-| Week 4 Status Report | | | |
+| Week 4 Status Report | Get started with the project| Named Project: Caseflow and set up initial frontend and backend structure|Github WorkFlow |
 | Week 5 Status Report | | | |
 | Week 6 Status Report | | | |
 | Week 7 Status Report | | | |
