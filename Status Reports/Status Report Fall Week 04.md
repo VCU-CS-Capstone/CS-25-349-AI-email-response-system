@@ -22,7 +22,7 @@
 
 ## 3) Issues, problems or concerns ##
    - Getting used to Github Workflow
-   - Everyone downloading 
+   
    
 
 
