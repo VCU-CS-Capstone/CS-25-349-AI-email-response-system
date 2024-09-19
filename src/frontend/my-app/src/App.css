@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .App {
   text-align: left;
 }
@@ -10,5 +14,13 @@
 
 .App-body {
   font-size: calc(6px + 2vmin);
+}
+
+.btn {
+  @apply font-bold py-2 px-4 rounded transition duration-300; /* Tailwind utility classes */
+}
+
+.btn-blue {
+  @apply bg-blue-500 text-white hover:bg-blue-700; /* Tailwind utility classes */
 }
 
