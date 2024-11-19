@@ -20,8 +20,8 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 7 Status Report | | | |
 | Week 8 Status Report | | | |
 | Week 9 Status Report | | | |
-| Week 10 Status Report | | | |
-| Week 11 Status Report | | | |
+| Week 10 Status Report | Work on sprint 3 + poster | Completed sprint 2 | Fix sprint 2 bugs |
+| Week 11 Status Report | Finish sprint 3 + poster| Sprint 3 - completed rich text editor, set up AI tables in backend | Rich text styling on case details page|
 | Week 12 Status Report | | | |
 | Week 13 Status Report | | | |
 | Week 14 Status Report | | | |
