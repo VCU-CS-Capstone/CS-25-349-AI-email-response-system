@@ -15,10 +15,12 @@
 
 ## 1) Accomplishments this week ##
    - Began working on sprint 2.
+   - Frontend: Add a new page for case dashboard
+   - Backend: Create database tables to hold case information
 
 ## 2) Milestones to be completed next week ##
    - Frontend: Add a new page for case submission
-   - Backend: Create database tables to hold case information
+   - Backend: Create endpoints to get paginated cases
 
 ## 3) Issues, problems or concerns ##
    - No issues to report
