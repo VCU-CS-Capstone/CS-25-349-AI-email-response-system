@@ -22,8 +22,8 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 9 Status Report | Continue working on Sprint 2| Set up page for case submission| Fixed backend case submission endpoints|
 | Week 10 Status Report | Work on sprint 3 + poster | Completed sprint 2 | Fix sprint 2 bugs |
 | Week 11 Status Report | Finish sprint 3 + poster| Sprint 3 - completed rich text editor, set up AI tables in backend | Rich text styling on case details page|
-| Week 12 Status Report |Finish Poster and Create list of tasks to be added to backlog | Submitted Final Poster and Started on backlog  |Timeline on Case Details page having issues. Slight Formatting issue with Poster(resolved|
-| Week 13 Status Report |Clean Up/Update Github Repo and Sprint 4 start| Ensured all status reports ready and divided up backlog/Sprint4 work| No issues|
+| Week 12 Status Report |Finish Poster and Create list of tasks to be added to backlog | Submitted Final Poster and Started on backlog  |Timeline on Case Details page having issues. Slight Formatting issue with Poster(resolved)|
+| Week 13 Status Report |Clean Up/Update Github Repo and Sprint 4 start| Ensured all status reports ready and divided up backlog/Sprint4 work| Backlog bugs|
 | Week 14 Status Report | | | |
 | Week 15 Status Report | | | |
 | Week 16 Status Report | | | |
