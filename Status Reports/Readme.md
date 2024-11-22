@@ -18,8 +18,8 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 5 Status Report | Work on Sprint 1 + Project Proposal | Set up Backend and Frontend; Start Project Proposal | Reading documentation on how to set up authentication|
 | Week 6 Status Report | Continue Project Proposal and Sprint 1 | Finalize individually assigned sections in Project Proposal; Finish Sprint 1 | No issues |
 | Week 7 Status Report | Project Proposal + Assign Sprint 2 tasks | Finish Project Proposal and receive feedback | No issues |
-| Week 8 Status Report | | | |
-| Week 9 Status Report | | | |
+| Week 8 Status Report | Begin Sprint 2 Tasks| Set up database schema for case information on backend. Set up case dashboard on Frontend.| No issues.|
+| Week 9 Status Report | Continue working on Sprint 2| Set up page for case submission| Fixed backend case submission endpoints|
 | Week 10 Status Report | Work on sprint 3 + poster | Completed sprint 2 | Fix sprint 2 bugs |
 | Week 11 Status Report | Finish sprint 3 + poster| Sprint 3 - completed rich text editor, set up AI tables in backend | Rich text styling on case details page|
 | Week 12 Status Report |Finish Poster and Create list of tasks to be added to backlog | Submitted Final Poster and Started on backlog  |Timeline on Case Details page having issues. Slight Formatting issue with Poster(resolved|
