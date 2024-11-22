@@ -16,7 +16,7 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 3 Status Report | Met with Faculty Advisor and Sponsor | Understanding project requirements | Access to CoStar Group documentation|
 | Week 4 Status Report | Get started with the project| Named Project: Caseflow and set up initial frontend and backend structure|Github WorkFlow |
 | Week 5 Status Report | Work on Sprint 1 + Project Proposal | Set up Backend and Frontend; Start Project Proposal | Reading documentation on how to set up authentication|
-| Week 6 Status Report | Continue Project Proposal | Finalize individually assigned sections in Project Proposal; Finish Sprint 1 | No issues |
+| Week 6 Status Report | Continue Project Proposal and Sprint 1 | Finalize individually assigned sections in Project Proposal; Finish Sprint 1 | No issues |
 | Week 7 Status Report | Project Proposal + Assign Sprint 2 tasks | Finish Project Proposal and receive feedback | No issues |
 | Week 8 Status Report | | | |
 | Week 9 Status Report | | | |
