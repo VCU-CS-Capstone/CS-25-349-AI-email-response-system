@@ -15,8 +15,8 @@
 
 ## 1) Accomplishments this week ##
    - Continued to work on Sprint 2
-    - Backend: Created route to get cases with pagination
-    - Frontend: Resolved issues with case submission. Added case submission form.
+   - Backend: Created route to get cases with pagination
+   - Frontend: Resolved issues with case submission. Added case submission form.
     
 ## 2) Milestones to be completed next week ##
    - Fix any bugs with Sprint 2
