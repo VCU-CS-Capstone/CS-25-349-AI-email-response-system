@@ -1,41 +1,44 @@
 import "./App.css";
-
-import React, { useState } from "react";
+import { ThemeProvider } from "@material-tailwind/react";
+import React from "react";
+import LandingPage from "./components/LandingPage";
 import Login from "./components/Login";
 import SignUp from "./components/SignUp";
+import Home from "./components/Home";
+import CaseSubmissionForm from "./components/CaseSubmission";
+import CaseDashboard from "./components/CaseDashboard";
+import CaseDetails from "./components/CaseDetails";
+
+import { Routes, Route } from "react-router-dom";
+import ProtectedRoute from "./routes/ProtectedRoute";
 
 const App = () => {
-  const [isLogin, setIsLogin] = useState(false);
-  const [isSignUp, setIsSignUp] = useState(false);
-
   return (
-    <div className="flex items-center justify-center min-h-screen bg-blue-50">
-      {!isLogin && !isSignUp && (
-        <div className="bg-white rounded shadow-md p-6">
-          <h2 className="text-3xl font-bold text-center mb-6">CASE Flow</h2>
-
-          <div className="flex justify-center">
-            <button
-              className="btn btn-blue w-32 mr-4"
-              onClick={() => setIsLogin(true)}
-            >
-              Login
-            </button>
-            <button
-              className="btn btn-blue w-32"
-              onClick={() => {
-                setIsLogin(false);
-                setIsSignUp(true);
-              }}
-            >
-              Sign Up
-            </button>
-          </div>
-        </div>
-      )}
-      {isLogin && <Login />}
-      {isSignUp && <SignUp />}
-    </div>
+    <ThemeProvider>
+      <div className="min-h-screen bg-navy-400">
+        <Routes>
+          {/*Public Routes*/}
+          {/* Default route */}
+          <Route path="/" element={<LandingPage />} />
+          {/* Login Page Route */}
+          <Route path="/login" element={<Login />} />
+          {/* SignUp Page Route */}
+          <Route path="/signup" element={<SignUp />} />
+          {/* CaseSubmission Form Route*/}
+          <Route path="/casesubmission" element={<CaseSubmissionForm />} />
+          {/* Protected Routes */}
+          {/* Home Page Route */}
+          <Route path="/home" element={<ProtectedRoute element={Home} />} />
+          {/* Case Dashboard Page Route */}
+          <Route
+            path="/casedashboard"
+            element={<ProtectedRoute element={CaseDashboard} />}
+          />
+          {/* Case Details Page Route */}
+          <Route path="/cases/:caseId" element={<CaseDetails />} />
+        </Routes>
+      </div>
+    </ThemeProvider>
   );
 };
 
